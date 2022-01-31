@@ -20,3 +20,5 @@ To determine what branch the local repository is on, add a new branch, or delete
 git checkout
 To start working in a different branch, use git checkout to switch branches.
 
+git push ____________________origin -> path             branch -> master
+
